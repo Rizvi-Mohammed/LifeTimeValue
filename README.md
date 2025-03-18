@@ -3,6 +3,7 @@ AI for personalized emails to increase ecommerce customer ltv.
 
 ![alt text](https://github.com/Rizvi-Mohammed/LifeTimeValue/blob/main/ltv.PNG?raw=true)
 
+
 # LTV-AI
 
 LTV-AI is a personalized e-commerce email solution leveraging Next.js, NestJS, Retrieval-Augmented Generation (RAG), and Large Language Models (LLMs).
